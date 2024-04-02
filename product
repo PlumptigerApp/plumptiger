@@ -1,0 +1,82 @@
+{
+  "message": "",
+  "error": 0,
+  "data": {
+    "categories": [
+      {
+        "id": 1,
+        "name": "Salads",
+        "img": "https://i.ibb.co/JHCQBQs/mainorange.jpg",
+        "price": 30,
+        "created_at": null,
+        "goods": [
+          {
+            "id": 101,
+            "name": "Eggplant salad",
+            "img": "https://i.ibb.co/wcmCH5s/eggplant-salad.png",
+            "price": 150,
+            "mass": "200g"
+          },
+          {
+            "id": 102,
+            "name": "China Salad",
+            "img": "https://i.ibb.co/3d7M0FV/Chine-salat.png",
+            "price": 180,
+            "mass": "250g"
+          },
+			{
+            "id": 103,
+            "name": "Tiger meat Salad",
+            "img": "https://i.ibb.co/wZqN2fp/tiger-meat-salad.png",
+            "price": 100,
+            "mass": "250g"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Main Course",
+        "img": "https://ibb.co/gj3rfY8",
+        "price": 35,
+        "created_at": null,
+        "goods": [
+          {
+            "id": 201,
+            "name": "Rice and Vegetables",
+            "img": "https://i.ibb.co/1vNGfWD/rice-with-vegetables.png",
+            "price": 250,
+            "mass": "250g"
+          },
+          {
+            "id": 202,
+            "name": "Gabaljou pork",
+            "https://i.ibb.co/wMKk0dD/gabajou-pork-carrots-and-sweet-peppers.png",
+            "price": 300,
+            "mass": "250g"
+          },
+			{
+            "id": 203,
+            "name": "Set Harbin",
+            "img": "https://i.ibb.co/HVk4JLr/set-harbin.png",
+            "price": 1800,
+            "mass": "1500g"
+          },
+          {
+            "id": 204,
+            "name": "Set Daulin",
+            "https://i.ibb.co/gzkhXFH/set-Daulin.png",
+            "price": 2200,
+            "mass": "1500g"
+          },
+          {
+            "id": 202,
+            "name": "Set Pekin",
+            "https://i.ibb.co/v43YCLf/set-Pekin.png",
+            "price": 2500,
+            "mass": "1500g"
+          }
+        ]
+      }
+    ]
+  }
+}
